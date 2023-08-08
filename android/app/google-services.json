@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196545797939",
+    "firebase_url": "https://ndn-firebase-cubit-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ndn-firebase-cubit",
+    "storage_bucket": "ndn-firebase-cubit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196545797939:android:122cb152c26a917fb72846",
+        "android_client_info": {
+          "package_name": "com.example.test_bloc_firebase_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196545797939-d6hke3h7kic46g76giqfaph2q5e6ipl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUs4hdVxt74wdwjUc6UVbdHDg6-kmkx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196545797939-d6hke3h7kic46g76giqfaph2q5e6ipl0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196545797939-aoher11galmrv0rr51i1t5f5m7us8cau.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testBlocFirebase1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
